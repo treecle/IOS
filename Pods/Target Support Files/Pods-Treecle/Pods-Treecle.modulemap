@@ -1,0 +1,6 @@
+framework module Pods_Treecle {
+  umbrella header "Pods-Treecle-umbrella.h"
+
+  export *
+  module * { export * }
+}
